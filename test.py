@@ -1,1 +1,2 @@
 print("Trololo")
+print("Lolo")
